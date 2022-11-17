@@ -1,0 +1,2 @@
+# grafica
+ejercicio gráfica
